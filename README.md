@@ -29,7 +29,7 @@ Software Developer
 
 <p align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Miyan0001&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Miyan0001&layout=compact&langs_count=7&theme=radical"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Miyan-hub&layout=compact&langs_count=7&theme=radical"/>
 </p>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Miyan0001&theme=radical)](https://git.io/streak-stats)
