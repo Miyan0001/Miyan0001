@@ -44,6 +44,7 @@ Software Developer
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=Node.js)
 ![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=cplusplus)
 ![C#](https://img.shields.io/badge/-C%23-black?style=flat-square&logo=csharp)
+![Lua](https://img.shields.io/badge/-Lua-black?style=flat-square&logo=Lua)
 
 ## 🏆 GitHub Profile Stats
 - 🔭 I'm currently working on improving my coding skills
