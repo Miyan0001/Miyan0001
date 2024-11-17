@@ -1,5 +1,7 @@
 # Hi there! 👋 I'm Miyan
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Miyan0001&label=Profile%20views&color=0e75b6&style=flat" alt="Miyan0001" /> </p>
+
 ## 🌈 Pronouns
 - She/Her
 
@@ -17,9 +19,19 @@ Software Developer
 
 ## 📊 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Miyan0001&show_icons=true&theme=radical)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Miyan0001&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+</p>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Miyan0001)](https://git.io/streak-stats)
+<p align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Miyan0001&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Miyan0001&layout=compact&langs_count=7&theme=radical"/>
+</p>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Miyan0001&theme=radical)](https://git.io/streak-stats)
+
+## 📈 Contribution Graph
+[![Miyan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Miyan0001&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## 🛠️ Technologies & Tools
 
@@ -29,8 +41,17 @@ Software Developer
 ![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=cplusplus)
 ![C#](https://img.shields.io/badge/-C%23-black?style=flat-square&logo=csharp)
 
+## 🏆 GitHub Profile Stats
+- 🔭 I'm currently working on improving my coding skills
+- 🌱 I'm currently learning new technologies
+- 👯 I'm looking to collaborate on open source projects
+- 💬 Ask me about anything tech related
+
 ## ⚡ Fun fact
 I'm a Beginner
 
 ---
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
+</p>
 <p align="center">Thanks for visiting!</p>
