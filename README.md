@@ -16,6 +16,8 @@ Software Developer
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/miyan0001)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/miyan0001)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6283890667327)
+[![Website](https://img.shields.io/badge/Website-4A154B?style=for-the-badge&logo=vercel&logoColor=white)](https://miyanapi.vercel.app)
+[![Organization](https://img.shields.io/badge/Organization-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/Miyan-org)
 
 ## 📊 GitHub Stats
 
@@ -54,4 +56,3 @@ I'm a Beginner
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
 </p>
-<p align="center">Thanks for visiting!</p>
