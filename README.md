@@ -71,7 +71,7 @@ Software Developer
 ![Lumen](https://img.shields.io/badge/-Lumen-black?style=flat-square&logo=lumen)
 
 ### ✍️ Code Editor
-![Visual Studio Code](https://img.shields.io/badge/Visual Studio Code-007ACC?logo=visualstudiocode&logoColor=fff&style=plastic)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=plastic)
 
 ### ☁️ Hosting Platforms
 ![Vercel](https://img.shields.io/badge/-Vercel-black?style=flat-square&logo=vercel)  
@@ -80,7 +80,6 @@ Software Developer
 ![Netlify](https://img.shields.io/badge/-Netlify-black?style=flat-square&logo=netlify)  
 ![Gitpod](https://img.shields.io/badge/-Gitpod-black?style=flat-square&logo=gitpod)  
 ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-black?style=flat-square&logo=google-cloud)  
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservice)
 
 ## 🏆 GitHub Profile Stats
 - 🔭 I'm currently working on improving my coding skills
