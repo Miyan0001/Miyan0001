@@ -40,6 +40,10 @@ I am a passionate **Software Developer** with a focus on modern web technologies
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=cplusplus)
 ![C#](https://img.shields.io/badge/-C%23-black?style=flat-square&logo=csharp)
+![Lua](https://img.shields.io/badge/-Lua-black?style=flat-square&logo=Lua)
+![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
+![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php)
 
 ### Frameworks & Libraries:
 ![Flask](https://img.shields.io/badge/-Flask-black?style=flat-square&logo=flask)
@@ -47,6 +51,9 @@ I am a passionate **Software Developer** with a focus on modern web technologies
 ![Vue.js](https://img.shields.io/badge/-Vue.js-black?style=flat-square&logo=vue.js)
 ![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js)
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=Node.js)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-black?style=flat-square&logo=tailwindcss)
+![CodeIgniter](https://img.shields.io/badge/-CodeIgniter-black?style=flat-square&logo=codeigniter)
+![Laravel](https://img.shields.io/badge/-Laravel-black?style=flat-square&logo=laravel)
 
 ### Databases & Hosting:
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
