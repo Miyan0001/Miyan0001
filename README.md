@@ -68,9 +68,6 @@ Software Developer
 ![CakePHP](https://img.shields.io/badge/-CakePHP-black?style=flat-square&logo=cakephp)
 ![Zend Framework](https://img.shields.io/badge/-Zend-black?style=flat-square&logo=zend)
 ![Yii](https://img.shields.io/badge/-Yii-black?style=flat-square&logo=yii)
-![Phalcon](https://img.shields.io/badge/-Phalcon-black?style=flat-square&logo=phalcon)
-![Slim](https://img.shields.io/badge/-Slim-black?style=flat-square&logo=slim)
-![FuelPHP](https://img.shields.io/badge/-FuelPHP-black?style=flat-square&logo=fuelphp)
 ![Lumen](https://img.shields.io/badge/-Lumen-black?style=flat-square&logo=lumen)
 
 ## 🏆 GitHub Profile Stats
