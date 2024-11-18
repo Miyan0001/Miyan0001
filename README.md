@@ -2,6 +2,11 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Miyan0001&label=Profile%20views&color=0e75b6&style=flat)
 
+## 🌈 Pronouns
+- She/Her
+
+---
+
 ## 🌟 About Me
 I am a passionate **Software Developer** with a focus on modern web technologies. I love building projects that challenge me and contribute to the open-source community. Always learning and exploring new tech to improve my skills.
 
