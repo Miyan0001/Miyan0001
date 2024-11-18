@@ -45,6 +45,7 @@ Software Developer
 ![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=cplusplus)
 ![C#](https://img.shields.io/badge/-C%23-black?style=flat-square&logo=csharp)
 ![Lua](https://img.shields.io/badge/-Lua-black?style=flat-square&logo=Lua)
+![Flask](https://img.shields.io/badge/-Flask-black?style=flat-square&logo=flask)
 
 ## 🏆 GitHub Profile Stats
 - 🔭 I'm currently working on improving my coding skills
@@ -54,6 +55,9 @@ Software Developer
 
 ## ⚡ Fun fact
 I'm a Beginner
+
+## 💬 Random Developer Quote
+![Quote](https://github-readme-quotes-bay.vercel.app/quote)
 
 ---
 <p align="center">
