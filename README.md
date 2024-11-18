@@ -52,7 +52,7 @@ I am a passionate **Software Developer** with a focus on modern web technologies
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Miyan0001&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=Miyan0001&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Miyan0001&layout=compact&langs_count=7&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Miyan0001&layout=compact&langs_count=10&theme=radical)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Miyan0001&theme=radical)](https://git.io/streak-stats)
 
