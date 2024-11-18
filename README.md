@@ -54,6 +54,10 @@ I am a passionate **Software Developer** with a focus on modern web technologies
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
 ![Vercel](https://img.shields.io/badge/-Vercel-black?style=flat-square&logo=vercel)
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)
+![Gitpod](https://img.shields.io/badge/-Gitpod-black?style=flat-square&logo=gitpod)
+![Koyeb](https://img.shields.io/badge/-Koyeb-black?style=flat-square&logo=koyeb)
+![Netlify](https://img.shields.io/badge/-Netlify-black?style=flat-square&logo=netlify)
+![Replit](https://img.shields.io/badge/-Replit-black?style=flat-square&logo=replit)
 
 ---
 
