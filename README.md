@@ -53,7 +53,7 @@ I am a passionate **Software Developer** with a focus on modern web technologies
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Miyan0001&layout=compact&langs_count=10&theme=radical)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Miyan0001&theme=radical)](https://git.io/streak-stats)
+![GitHub Streak](https://streak-stats.demolab.com?user=Miyan0001&theme=radical)](https://git.io/streak-stats)
 
 ---
 
