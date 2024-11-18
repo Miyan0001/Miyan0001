@@ -53,11 +53,11 @@ Software Developer
 - 👯 I'm looking to collaborate on open source projects
 - 💬 Ask me about anything tech related
 
-## ⚡ Fun fact
-I'm a Beginner
-
 ## 💬 Random Developer Quote
 ![Quote](https://github-readme-quotes-bay.vercel.app/quote)
+
+## ⚡ Fun fact
+I'm a Beginner
 
 ---
 <p align="center">
