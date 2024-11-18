@@ -80,7 +80,7 @@ Software Developer
 ![Netlify](https://img.shields.io/badge/-Netlify-black?style=flat-square&logo=netlify)  
 ![Gitpod](https://img.shields.io/badge/-Gitpod-black?style=flat-square&logo=gitpod)  
 ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-black?style=flat-square&logo=google-cloud)  
-![AWS](https://img.shields.io/badge/-AWS-black?style=flat-square&logo=amazon-aws)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservice)
 
 ## 🏆 GitHub Profile Stats
 - 🔭 I'm currently working on improving my coding skills
