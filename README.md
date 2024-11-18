@@ -39,6 +39,8 @@ Software Developer
 
 ## 🛠️ Technologies & Tools
 
+![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-black?style=flat-square&logo=vue.js)
@@ -54,11 +56,23 @@ Software Developer
 ![Electron](https://img.shields.io/badge/-Electron-black?style=flat-square&logo=electron)
 ![Deno](https://img.shields.io/badge/-Deno-black?style=flat-square&logo=deno)
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=Node.js)
+![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=cplusplus)
 ![C#](https://img.shields.io/badge/-C%23-black?style=flat-square&logo=csharp)
 ![Lua](https://img.shields.io/badge/-Lua-black?style=flat-square&logo=Lua)
 ![Flask](https://img.shields.io/badge/-Flask-black?style=flat-square&logo=flask)
+![Laravel](https://img.shields.io/badge/-Laravel-black?style=flat-square&logo=laravel)
+![CodeIgniter](https://img.shields.io/badge/-CodeIgniter-black?style=flat-square&logo=codeigniter)
+![Symfony](https://img.shields.io/badge/-Symfony-black?style=flat-square&logo=symfony)
+![CakePHP](https://img.shields.io/badge/-CakePHP-black?style=flat-square&logo=cakephp)
+![Zend Framework](https://img.shields.io/badge/-Zend-black?style=flat-square&logo=zend)
+![Yii](https://img.shields.io/badge/-Yii-black?style=flat-square&logo=yii)
+![Phalcon](https://img.shields.io/badge/-Phalcon-black?style=flat-square&logo=phalcon)
+![Slim](https://img.shields.io/badge/-Slim-black?style=flat-square&logo=slim)
+![FuelPHP](https://img.shields.io/badge/-FuelPHP-black?style=flat-square&logo=fuelphp)
+![Lumen](https://img.shields.io/badge/-Lumen-black?style=flat-square&logo=lumen)
+
 ## 🏆 GitHub Profile Stats
 - 🔭 I'm currently working on improving my coding skills
 - 🌱 I'm currently learning new technologies
