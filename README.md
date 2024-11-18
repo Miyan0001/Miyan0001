@@ -2,38 +2,12 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Miyan0001&label=Profile%20views&color=0e75b6&style=flat)
 
-## 🌈 Pronouns
-- She/Her
-
 ## 🌟 About Me
-I am a passionate **Software Developer** with a focus on modern web technologies. I love building projects that challenge me and contribute to the open-source community.
-
-## 🌐 Connect with Me
-- [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/miyan0001)
-- [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white)](https://tiktok.com/@Miyan0001)
-- [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white)](https://reddit.com/user/misonomiyan)
-- [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/miyan0001)
-- [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100095432057687)
-- [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/miyanli0001)
-- [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/@Miyan0001)
-- [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6283890667327)
-- [![Website](https://img.shields.io/badge/Website-4A154B?style=for-the-badge&logo=vercel&logoColor=white)](https://miyanapi.vercel.app)
-- [![Organization](https://img.shields.io/badge/Organization-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/Miyan-org)
+I am a passionate **Software Developer** with a focus on modern web technologies. I love building projects that challenge me and contribute to the open-source community. Always learning and exploring new tech to improve my skills.
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Miyan0001&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-![Stats](https://github-readme-stats.vercel.app/api?username=Miyan0001&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Miyan0001&layout=compact&langs_count=7&theme=radical)
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Miyan0001&theme=radical)](https://git.io/streak-stats)
-
----
-
-## 🛠️ Technologies & Tools
+## 🛠️ Skills & Technologies
 
 ### Programming Languages:
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
@@ -68,6 +42,17 @@ I am a passionate **Software Developer** with a focus on modern web technologies
 
 ---
 
+## 📊 GitHub Stats
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Miyan0001&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+![Stats](https://github-readme-stats.vercel.app/api?username=Miyan0001&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Miyan0001&layout=compact&langs_count=7&theme=radical)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Miyan0001&theme=radical)](https://git.io/streak-stats)
+
+---
+
 ## 🏆 GitHub Profile Stats
 - 🔭 Currently working on improving my coding skills and exploring new technologies.
 - 🌱 Always learning and open to collaborating on open-source projects.
@@ -75,15 +60,23 @@ I am a passionate **Software Developer** with a focus on modern web technologies
 
 ---
 
-## 💬 Random Developer Quote
-![Quote](https://github-readme-quotes-bay.vercel.app/quote)
-
----
-
-## ⚡ Fun fact
+## ⚡ Fun Fact
 I’m a problem solver at heart, and I love turning complex ideas into functional code! Every project is a new adventure for me.
 
 ---
+
+## 🌐 Connect with Me
+
+- [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/miyan0001)
+- [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white)](https://tiktok.com/@Miyan0001)
+- [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white)](https://reddit.com/user/misonomiyan)
+- [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/miyan0001)
+- [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100095432057687)
+- [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/miyanli0001)
+- [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/@Miyan0001)
+- [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6283890667327)
+- [![Website](https://img.shields.io/badge/Website-4A154B?style=for-the-badge&logo=vercel&logoColor=white)](https://miyanapi.vercel.app)
+- [![Organization](https://img.shields.io/badge/Organization-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/Miyan-org)
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
