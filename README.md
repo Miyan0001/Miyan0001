@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Miyan
 
-![Profile Views](https://komarev.com/ghpvc/?username=Miyan0001&label=Profile%20views&color=0e75b6&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=Miyan0001&abbreviated=true&label=Profile%20views&color=0e75b6&style=flat)
 
 ## 🌈 Pronouns
 - She/Her
