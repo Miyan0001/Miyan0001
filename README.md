@@ -71,7 +71,7 @@ Software Developer
 ![Lumen](https://img.shields.io/badge/-Lumen-black?style=flat-square&logo=lumen)
 
 ### ✍️ Code Editor
-![Visual Studio Code](https://img.shields.io/badge/-VSCode-black?style=flat-square&logo=visual-studio-code&logoColor=007ACC)
+![Visual Studio Code](https://img.shields.io/badge/Visual Studio Code-007ACC?logo=visualstudiocode&logoColor=fff&style=plastic)
 
 ### ☁️ Hosting Platforms
 ![Vercel](https://img.shields.io/badge/-Vercel-black?style=flat-square&logo=vercel)  
