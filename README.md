@@ -80,7 +80,6 @@ I’m a problem solver at heart, and I love turning complex ideas into functiona
 - [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/@Miyan0001)
 - [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/6283890667327)
 - [![Website](https://img.shields.io/badge/Website-4A154B?style=for-the-badge&logo=vercel&logoColor=white)](https://miyanapi.vercel.app)
-- [![Organization](https://img.shields.io/badge/Organization-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/Miyan-org)
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
