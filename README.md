@@ -40,13 +40,25 @@ Software Developer
 ## 🛠️ Technologies & Tools
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![Vue.js](https://img.shields.io/badge/-Vue.js-black?style=flat-square&logo=vue.js)
+![Angular](https://img.shields.io/badge/-Angular-black?style=flat-square&logo=angular)
+![Svelte](https://img.shields.io/badge/-Svelte-black?style=flat-square&logo=svelte)
+![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat-square&logo=next.js)
+![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-black?style=flat-square&logo=nuxt.js)
+![Gatsby](https://img.shields.io/badge/-Gatsby-black?style=flat-square&logo=gatsby)
+![Ember.js](https://img.shields.io/badge/-Ember.js-black?style=flat-square&logo=ember.js)
+![Backbone.js](https://img.shields.io/badge/-Backbone.js-black?style=flat-square&logo=backbone.js)
+![Express.js](https://img.shields.io/badge/-Express.js-black?style=flat-square&logo=express)
+![Meteor](https://img.shields.io/badge/-Meteor-black?style=flat-square&logo=meteor)
+![Electron](https://img.shields.io/badge/-Electron-black?style=flat-square&logo=electron)
+![Deno](https://img.shields.io/badge/-Deno-black?style=flat-square&logo=deno)
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=Node.js)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=cplusplus)
 ![C#](https://img.shields.io/badge/-C%23-black?style=flat-square&logo=csharp)
 ![Lua](https://img.shields.io/badge/-Lua-black?style=flat-square&logo=Lua)
 ![Flask](https://img.shields.io/badge/-Flask-black?style=flat-square&logo=flask)
-
 ## 🏆 GitHub Profile Stats
 - 🔭 I'm currently working on improving my coding skills
 - 🌱 I'm currently learning new technologies
