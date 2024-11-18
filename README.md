@@ -69,6 +69,7 @@ Software Developer
 ![Zend Framework](https://img.shields.io/badge/-Zend-black?style=flat-square&logo=zend)
 ![Yii](https://img.shields.io/badge/-Yii-black?style=flat-square&logo=yii)
 ![Lumen](https://img.shields.io/badge/-Lumen-black?style=flat-square&logo=lumen)
+[![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=black)](https://www.docker.com)
 
 ### ✍️ Code Editor
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?logo=visualstudiocode&logoColor=fff&style=plastic)
@@ -80,6 +81,7 @@ Software Developer
 ![Netlify](https://img.shields.io/badge/-Netlify-black?style=flat-square&logo=netlify)  
 ![Gitpod](https://img.shields.io/badge/-Gitpod-black?style=flat-square&logo=gitpod)  
 ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-black?style=flat-square&logo=google-cloud)  
+[![Replit](https://img.shields.io/badge/Replit-%23000000.svg?style=for-the-badge&logo=Replit&logoColor=black)](https://replit.com)
 
 ## 🏆 GitHub Profile Stats
 - 🔭 I'm currently working on improving my coding skills
